@@ -32,25 +32,6 @@ PriceTidy supports multiple rounding strategies:
 - `RoundUpToNearestHundredStrategy`: Rounds up to the nearest hundred.
 - `EuroStrategy`: Example of a custom rounding strategy.
 
-## Running Tests
-
-To run the tests, use PHPUnit:
-
-```bash
-vendor/bin/pest
-```
-
-## License
-
-This project is licensed under the MIT License.
-
-## Authors
-
-- Daniel Källstrand Modig (daniel.modig@me.com)
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Example
 
@@ -91,6 +72,25 @@ echo $priceTidy->priceIncVat; // Output will be 15
 ```
 
 
+## Running Tests
+
+To run the tests, use PHPUnit:
+
+```bash
+vendor/bin/pest
+```
+
 ## License
+
+This project is licensed under the MIT License.
+
+## Authors
+
+- Daniel Källstrand Modig (daniel.modig@me.com)
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
 
 This project is licensed under the MIT License.
