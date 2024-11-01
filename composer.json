@@ -1,0 +1,28 @@
+{
+    "name": "dnkmdg/price-tidy",
+    "description": "Seamless price rounding and adjustment",
+    "type": "librar",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dnkmdg\\PriceTidy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Källstrand Modig",
+            "email": "daniel.modig@me.com"
+        }
+    ],
+    "require": {
+        "php": ">=8"
+    },
+    "require-dev": {
+        "pestphp/pest": "^3.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
