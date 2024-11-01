@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=8"
+        "php": ">=8.2"
     },
     "require-dev": {
         "pestphp/pest": "^3.3"
