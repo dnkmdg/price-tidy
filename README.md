@@ -1,4 +1,9 @@
 # PriceTidy
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dnkmdg/price-tidy/php.yml?label=tests)
+![GitHub Release](https://img.shields.io/github/v/release/dnkmdg/price-tidy)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dnkmdg/price-tidy/total?color=blue)
+
+
 
 PriceTidy is a PHP library for seamless price rounding and adjustment using various rounding strategies.
 
